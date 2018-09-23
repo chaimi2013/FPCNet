@@ -1,4 +1,4 @@
-name: "DehazeNet"
+name: "FPCNet_DH"
 
 input: "data"
 input_dim: 1	
