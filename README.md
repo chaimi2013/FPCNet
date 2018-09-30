@@ -45,7 +45,7 @@ Please cite our paper in your publications if it helps your research:
 
     @inproceedings{zhang2018fpcnet,
       title={Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images},
-      author={Zhang, Jing and Cao, Yang and Wang, Yang and Wen, Chenglin and Chen Chang Wen},
+      author={Zhang, Jing and Cao, Yang and Wang, Yang and Wen, Chenglin and Chen, Chang Wen},
       booktitle={ACM Multimedia Conference},
       year={2018}
     }
