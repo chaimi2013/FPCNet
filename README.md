@@ -1,5 +1,5 @@
 # FPCNet
-Fully Point-wise Convolutional Neural Network[1]
+[Fully Point-wise Convolutional Neural Network](https://chaimi2013.github.io/Research/FPC/index.html)
 
 
 ## Installation
@@ -15,9 +15,9 @@ Fully Point-wise Convolutional Neural Network[1]
 		    Folder containing dehazed results
 	    -utils
 		    -fast-guided-filter
-			    fast guided filter code[2]
+			    fast guided filter code[1]
 		    -index
-			    psnr and ssim code[3]
+			    psnr and ssim code[2]
 	    -testDemoFPCNet_DH.m
 	    	main body of the demo script
 ## Quick Start
@@ -33,12 +33,10 @@ Fully Point-wise Convolutional Neural Network[1]
     *The codes have been tested based on the Matlab Interface of CAFFE, which is compiled with Cuda8.0 and Cudnn v5 and Ubuntu 16.04.
 
 ## Reference: 
-
-    [1]. Zhang J., Cao Y., Wang Y., Wen C.,  Chen C.W. Fully Point-wise Convolutional Neural Network for Modeling Statistical Regularities in Natural Images. In Proceedings of the 2018 ACM Multimedia Conference. 2018.
     
-    [2]. Fast guided filter, [Kaiming He](http://kaiminghe.com/eccv10/index.html)
+[1]. Fast guided filter, [Kaiming He](http://kaiminghe.com/eccv10/index.html)
     
-    [3]. A Benchmark for Single Image Dehazing, [RESIDE](https://sites.google.com/view/reside-dehaze-datasets)
+[2]. A Benchmark for Single Image Dehazing, [RESIDE](https://sites.google.com/view/reside-dehaze-datasets)
 
 ## Citation
 Please cite our paper in your publications if it helps your research:
@@ -48,6 +46,23 @@ Please cite our paper in your publications if it helps your research:
       author={Zhang, Jing and Cao, Yang and Wang, Yang and Wen, Chenglin and Chen, Chang Wen},
       booktitle={ACM Multimedia Conference},
       year={2018}
+    }
+
+## Related Work
+[1]. FAMED-Net: A Fast and Accurate Multi-scale End-to-end Dehazing Network. [FAMED-Net: Project, ](https://chaimi2013.github.io/Research/FAMED-Net/)
+    [FAMED-Net: github](https://github.com/chaimi2013/FAMED-Net)
+    
+    @article{zhang2019famednet, 
+        author={Zhang, Jing and Tao, Dacheng}, 
+        journal={IEEE Transactions on Image Processing}, 
+        title={FAMED-Net: A Fast and Accurate Multi-scale End-to-end Dehazing Network}, 
+        year={2019}, 
+        volume={}, 
+        number={}, 
+        pages={1-1}, 
+        doi={10.1109/TIP.2019.2922837}, 
+        ISSN={1057-7149}, 
+        month={}
     }
 
 ## Contact
