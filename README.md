@@ -1,5 +1,5 @@
 # FPCNet
-[Fully Point-wise Convolutional Neural Network](https://chaimi2013.github.io/Research/FPC/index.html)
+[Fully Point-wise Convolutional Neural Network](https://chaimi2013.github.io/Research/FPC/index.html), ACM MM 2018.
 
 
 ## Installation
